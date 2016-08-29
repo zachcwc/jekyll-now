@@ -1,0 +1,19 @@
+---
+layout: post
+title: First Post
+---
+
+# Past Week
+Learned some basic differences between CPP and Java, talked through the syllabus, looked into the extremely cool-looking gcov tool which tells how much of your code has actually been executed, and used aforementioned tool on some trivial coding examples.
+
+# What is in my way
+At this point it's difficult to tell, beyond the sprint from the art building to the UTC that will guarantee that I get my cardio in early.
+
+# What will you do next week
+I would love to be a good student and start and maybe even finish project one next week. I would also love to use gcov on some old code I've written when I get the chance to make myself feel bad I mean learn from my mistakes. Also I would love not to make an embarrassing post on piazza when the problem was that I hadn't refreshed that particular open piazza tab (sad emoji). Also maybe spend some time learning CPP more intimately, I feel that knowing a couple other object oriented languages already should make it easy, but I would hate to be wrong and have that destroy me utterly.
+
+# Tips and Miscellaneous Advice/Drivel
+And so, fourteen failed builds, two git-reset hards, and one giant head as an avatar pic later, it begins. It begins with the advice I give everyone who enters CS or software development: learn git. Just do it, do it now, don't do it later. Honestly, you probably should already know git, but that's beside the point. The point being that YOU NEED TO KNOW GIT thing I said earlier. Or, or or or, another VC (version control) tool, but really? C'mon. Semantics. You will thank yourself an innumerable number of times for all the saving backside your intimate knowledge of VC will do. Before I continue I should admit, yes I know git-reset hard is bad and blah and blah I'm sorry I was in a rush OK.
+
+Anyway, I'm off my soapbox for now AND NOW BACK ON (great legwork), to say to (presumably) someone considering taking this class, that you should do the extra credit, it's good, gives yourself a free review of the week so you can catch yourself when you're like 'I guess I forgot this entire week', and it does not seem that difficult. That is actually secondhand advice I bequethe to you which I obtained from someone much smarter than I so do take it.
+
