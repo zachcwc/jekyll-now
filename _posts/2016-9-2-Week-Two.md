@@ -21,7 +21,7 @@ Can an issue in github be not having the not having the higher creative function
 # Storytime
 As an aside I have a funny (probably well known) history lesson. So apparently the default permissions in linux are set for everything to be readable. As you may know the UTCS computers share a distributed kind of file system. So, if default permissions are left, then to see another Users FS one needs only cd into it. Obviously, the easy fix to this is to change permissions, but an entering CS student may not know this, and even a wizened one might assume that permissions are already properly set to ensure privacy for themselves. ALACK, such was not the case until two years ago, so laid bare was the cs directory of almost everyone for quite some time. Long story short, if anyone ever saw my awful 312 code I'm so so sorry.
 
-# Seen in Austin
+# Sighting in Austin
 Women in wine bars yelling "boys are stupid".
 
 # Comic
