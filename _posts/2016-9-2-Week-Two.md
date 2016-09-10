@@ -4,7 +4,7 @@ title: Week Two
 ---
 
 # Past Week
-Learned a lot about c++ syntax and tips to make it run faster. Talked more thoroughly abou the first project due (Collatz), especially tips on how to optimize it. We also discussed how to use some of the tools in the class better. Downing made a nifty little checklist for us in class for the first project. We also talked about testing and how to do it properly (including such things on why not to use Asserts; long story short don't shoot your lover, throw stuff at them instead).
+Learned a lot about c++ syntax and tips to make it run faster (++ in front because lvalue, rvalue differences necessitate copies in certain instances). Talked more thoroughly abou the first project due (Collatz), especially tips on how to optimize it. We also discussed how to use some of the tools in the class better. Downing made a nifty little checklist for us in class for the first project. We also talked about testing and how to do it properly (including such things on why not to use Asserts; long story short don't shoot your lover, throw stuff at them instead).
 
 # What is in my way
 Well, what WAS in my way was Docker, but 32,426,329,058 hours later one realizes that the directory you start in in Docker and the directory you want to be in are different (by two letters). Now what's in my way is the syntax of C++, of which I know very litte. Sytax is syntax though so I'm not terribly worried.   
