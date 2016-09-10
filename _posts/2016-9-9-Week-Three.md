@@ -4,7 +4,7 @@ title: Week Three
 ---
 
 # Past Week
-
+Frantically finished Collatz. Interestingly, the project itself took like an hour to finish, but checking that all of the specs were correct took ~5 hours and I'm still pretty sure that they are wrong. We did crazy pointer and address stuff in class that made my head hurt, but, surprisingly, looks super interesting.
 
 # What is in my way
 I probably didn't need to check that I had named all my files correctly 23432423 times, but hey at least now I have complete (50%) certainty that I actually did name them all correctly. AND WAIT NOW I'M FAIRLY CERTAIN I ADDED AN EXTRA FILE (Doxyfile) to my github account. All is lost.
