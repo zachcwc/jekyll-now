@@ -19,7 +19,7 @@ OMG git has an --amend flag where you can amend the last commit you made THIS IS
 Had Mexican food and Ramen twice in one week. Bless up.
 
 # Grievances
-This semester I am a TA for CS 439 (Norman). So I was having my first office hours of the semester and they were mostly great; they learned a bunch, I learned a bunch. But, in what world do you just plop down your laptop in front of a professor/TA with no preamble, with nothing on your screen except some output string, and say: "What's wrong with this"? I have no idea, it looks like your failing a test, is that the answer you were looking for because that's really all I have to work on. You have files and files of code, you've been working on this implementation for hours or days, and you really think that I can just sixth sense your error without any background knowledge whatsoever? Like, gimme a bone here, I really do want to help.
+This semester I am a TA for CS 439 (Norman). So I was having my first office hours of the semester and they were mostly great; they learned a bunch, I learned a bunch. But, in what world do you just plop down your laptop in front of a professor/TA with no preamble, with nothing on your screen except some output string, and say: "What's wrong with this"? I have no idea, it looks like you're failing a test, is that the answer you were looking for because that's really all I have to work on. You have files and files of code, you've been working on this implementation for hours or days, and you really think that I can just sixth sense your error without any background knowledge whatsoever? Like, gimme a bone here, I really do want to help.
 
 # Comic
 This is a [comic](http://www.smbc-comics.com/comic/2010-08-29 "This text don't need no title").
