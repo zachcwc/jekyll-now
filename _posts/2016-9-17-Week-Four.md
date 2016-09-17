@@ -27,4 +27,4 @@ Six dollar coupon on the HEB app for Claritin-d. Together, we will destroy you u
 If I have to listen to one more rendition of 'Roses' or 'Closer' by the Chainsmokers, I swear I will be so annoyed for like two seconds before getting really really into the song and raging along. ~say you'll never let me go *base drop*~
 
 # Comic
-This is a comic ![alt text](https://github.com/zachcwc/zachcwc.github.io/images/boulderJoke.png "This text don't need no title")
+This is a comic ![alt text](![Alt text](/images/boulderJoke.jpg?raw=true "Optional Title")
