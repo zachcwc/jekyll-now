@@ -7,16 +7,16 @@ title: Week Four
 Had a speaker come in and talk about working at Bloomberg, which was very interesting. I think I saw him working on the sixth floor later that afternoon, which makes me wonder how many people on campus and especially in the GDC at any given time are non-students or faculty. Yet another reason to be glad for the more-lax dress code in the software industry; I can't imagine the horror of resisting sweatpants for fear of a potential recruiter judging me from afar, were I, say, a pre-law or government student. Learned about the equality operator in class as well, c++ allowing developers to override basic operators (I forgot the technical term, sue me) such as ++ and == for types they have defined is extremely cool and fun to learn about.
 
 # What is in my way
-Right now, and I expect for far too long, that interview grind is the bane of my life. When I get a job I never want to hear the name Gayle Laakmann agan. That being said, without her interview bible I doubt interviews would go half so smoothly, that being said they are still A+ train wrecks. Also, allergies.
+Right now, and I expect for far too long, that interview grind is the bane of my life. When I get a job I never want to hear the name Gayle Laakmann agan. That being said, without her interview bible I doubt interviews would go half so smoothly, that being said they are still A+ train wrecks. Three projects, one test, and one career fair will be sure to make this a week I want to forget, R.I.P sleep. Also, allergies.
 
 # What will you do next week
-Need to schedule flights/interviews, which means I need to figure out exactly which classes I want to lose attendance credit in.
+Need to schedule flights/interviews, which means I need to figure out exactly which classes I want to lose attendance credit in. Lament in the great dread that is career fair.
 
 # Tips and Miscellaneous Advice/Drivel
-TBD
+Don't forget to drink a lot of water and call your mother? 
 
 # Appreciation
-Six dollar coupon on the HEB app for Claritin-d. Together, we will destroy you utterly, ragweed. Also, found free, really good, west-campus parking late Friday night which was 0% expected.
+Six dollar coupon on the HEB app for Claritin-d. Together, we will destroy you utterly, ragweed. Also, found free, really good, west-campus parking late last Friday night which was 0% expected.
 
 # Grievances
 1. Why do allergies suck so much?
