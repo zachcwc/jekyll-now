@@ -14,7 +14,7 @@ Need to schedule flights/interviews, which means I need to figure out exactly wh
 
 # Tips and Miscellaneous Advice/Drivel
 SOMETIMES YOU NEED TO SKIP CLASS FOR JOB/INTERVIEWS/CAREER FAIR IT IS NECESSARY DO NOT FEAR.
-Also, ummm... don't forget to drink a lot of water and call your mother?
+Also, ummm... don't forget to drink a lot of water and call your mom, idk?
 
 # Appreciation
 Six dollar coupon on the HEB app for Claritin-d. Together, we will destroy you utterly, ragweed. Also, found free, really good, west-campus parking late last Friday night which was 0% expected.
