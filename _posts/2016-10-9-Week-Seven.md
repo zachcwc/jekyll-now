@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Week SEVEN
+title: Week Seven
 ---
 
 # Past Week
 Tests everywhere.
 
 # What is in my way
-Right now having to skip attendance based classes because of interviews feels like it's in my way. 
+Right now having to skip attendance based classes because of interviews feels like it's in my way. Also it took me three commits before I got this post's title right. why.
 
 # What will you do next week
 Interviews and projects.
