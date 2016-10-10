@@ -16,7 +16,7 @@ Interviews and projects.
 Treat yo' self.
 
 # Decisions
-What do you do when you are flown to X city for an interview? Do you explore the city? Do you party it up downtown? Make a friend in a day? See an art museum or maybe a play or maybe a really cool monument that you've seen in pictures but not in real life? Probably not, you probably study. Hopefully you go to a neighborhood coffeeshop or library to study and don't just stay in your hotel room, but either way you sit in one spot in a mysterious and exciting new city you may never visit again, and you reread tabbed parts of Gayle Laakmann's book, and you look at leetcode. Should we do that? It feels wrong, but so does not studying. I mean the entire point of you visiting this city is so that you can get a job, do you really want to (maybe) impact your chances of getting the job after coming so far? Do I? I have no idea.
+What do you do when you are flown to X city for an interview? Do you explore the city? Do you party it up downtown? Make a friend in a day? See an art museum, or maybe a play, or maybe a really cool monument that you've seen in pictures but not in real life? Probably not, you probably study. Hopefully you go to a neighborhood coffeeshop or library to study and don't just stay in your hotel room, but either way you sit in one spot in a mysterious and exciting new city you may never visit again, and you reread tabbed parts of Gayle Laakmann's book, and you look at leetcode. Should we do that? It feels wrong, but so does not studying. I mean the entire point of you visiting this city is so that you can get a job, do you really want to (maybe) impact your chances of getting the job after coming so far? Do I? I have no idea.
 
 # Favorite numbers in sorted order
 2.	
