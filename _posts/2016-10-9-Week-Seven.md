@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Six
+title: Week SEVEN
 ---
 
 # Past Week
