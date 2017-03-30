@@ -4,7 +4,7 @@ title: Week Nine Software Engineering
 ---
 
 # Past Week
-Jumped right into the SWE projcet
+Jumped right into the SWE project and spent about ten hours on that (not bad), but mainly spent my time on Multicore, Advanced Architectuer, and 439 interviews (which were actually very fun).
 
 # Experience of Class so Far
 I did the server setup (on AWS) for my SWE group, and it was very interesting to find how tedious it can be to setup a server properly. Thank god for internet tutorials. Another good thing to learn (or at least have reinforced) is that sometimes tutorials provided or found online are full of crap. I wasted at least six hours trying to follow the provided AWS tutorial, but it is both deprecated and full of small errors. The thing about server setup is that these small errors might only show up in the error log files as really cryptic messages, or they might not show up at all because its not an actual error that apache will realize is an error, but just an error in that your website might use the wrong config file or something. It becomes very important to actually understand what the tutorial is trying to do and not just do exactly what it says for this very reason, so you can recognize the mistakes in it and try to fix them yourself. 
